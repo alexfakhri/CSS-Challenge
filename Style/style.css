@@ -9,7 +9,45 @@
 
 
 /* basic elements */
+
 html {
+
+}
+
+body {
+	width: 75%;
+	margin: 0 auto;
+	}
+
+.title {
+	margin: 0 auto;
+	width: 508px;
+
+}
+
+header h1 {
+	font-family: 'Bitter', serif;
+	font-weight: 700;
+	font-size: 4em;
+	color: #225B5A;
+	margin-top: 0.5em;
+	margin-bottom: 0em;
+	text-align: center;
+}
+
+header h2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1.5em;
+	text-align: right;
+	margin-bottom: 2em;
+	color: #4AB194;
+}
+
+
+
+
+
+/*html {
 	margin: 0;
 	padding: 0;
 	}
@@ -51,7 +89,7 @@ abbr {
 
 
 /* specific divs */
-.page-wrapper { 
+/*.page-wrapper { 
 	background: url(zen-bg.jpg) no-repeat top left; 
 	padding: 0 175px 0 110px;  
 	margin: 0; 
@@ -77,13 +115,13 @@ header h1 {
 	}
 header h2 { 
 	background: transparent url(h2.gif) no-repeat top left; 
-	margin-top: 58px; 
+	margin-top: 40px; 
 	margin-bottom: 40px; 
 	width: 200px; 
 	height: 18px; 
 	float: right;
 
-	text-indent: 100%;
+	text-indent: 0%;
 	white-space: nowrap;
 	overflow: hidden;
 	}
@@ -191,4 +229,4 @@ footer a:link, footer a:visited {
 	right: 0; 
 	width: 148px; 
 	height: 110px;
-	}
+	}*/
